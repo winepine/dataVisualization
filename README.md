@@ -10,3 +10,4 @@ Following Data Structures have been implemented and visualised for now.
 LINKED LISTS
 STACK
 Binary Search Trees
+![alt text](https://github.com/[winepine]/[dataVisualization]/blob/[master]/bst_sample.PNG?raw=true)
